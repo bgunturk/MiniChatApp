@@ -1,0 +1,2 @@
+# MiniChatApp
+SocketIo used
